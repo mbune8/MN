@@ -11,10 +11,10 @@ Methodology
 1. Data Preparation:
    - Using Google BigQuery to create views that summarize the data.
    - SQL scripts for data extraction, transformation, and loading.
-2. Data Visualization:**
+2. Data Visualization:
    - Using Looker Studio for visual representations.
    - Types of charts generated: line, bar, and pie charts.
-3. Documentation:**
+3. Documentation:
    - Summarizing findings and providing actionable recommendations.
 
 Key Findings
