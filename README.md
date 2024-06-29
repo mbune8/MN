@@ -5,7 +5,7 @@ This project analyzes mental health trends in Minnesota using historical data. T
 
 Dataset
 - Source: Minnesota Department of Health
-- Description:** The dataset includes historical data on mental health incidents, covering various years, regions, and age groups within Minnesota.
+- Description: The dataset includes historical data on mental health incidents, covering various years, regions, and age groups within Minnesota.
 
 Methodology
 1. Data Preparation:
